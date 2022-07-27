@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.center {
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+
+.input {
+    padding: 20px;
+    background-color: orange;
+    margin-bottom: 25px;
+    display: flex;
+}
+
+input {
+    text-align: right;
+    padding-right: 15px;
+}
+
+button {
+    display: block;
+}
+
+.green {
+    background-color: green;
+}
+
+.green > p {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
